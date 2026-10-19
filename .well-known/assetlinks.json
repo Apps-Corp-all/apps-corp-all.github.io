@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.oscarrodriguez763_cmd.twa",
-        "sha256_cert_fingerprints": ["68:4A:0F:1C:DF:7F:EB:BC:B2:7C:E1:05:98:48:4A:FF:3D:F7:E1:D6:FA:97:22:A8:79:0F:A9:43:6D:A2:A0:EF"]
+        "sha256_cert_fingerprints": ["9F:D2:53:B3:5F:6F:5B:56:33:A7:C9:7F:13:C6:D9:A2:D0:6A:98:F7:9D:6E:1C:05:C3:EE:0F:B4:3F:FB:A8:A9"]
       }
     }]
